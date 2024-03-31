@@ -1,0 +1,8 @@
+C:\Users\Ussl\Desktop\1272337\Program\Program\bin\Debug\Program.exe.config
+C:\Users\Ussl\Desktop\1272337\Program\Program\bin\Debug\Program.exe
+C:\Users\Ussl\Desktop\1272337\Program\Program\bin\Debug\Program.pdb
+C:\Users\Ussl\Desktop\1272337\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\Ussl\Desktop\1272337\Program\Program\obj\Debug\Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ussl\Desktop\1272337\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\Ussl\Desktop\1272337\Program\Program\obj\Debug\Program.exe
+C:\Users\Ussl\Desktop\1272337\Program\Program\obj\Debug\Program.pdb
